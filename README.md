@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction-Analysis
-
+~~~
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -89,7 +89,7 @@ if(outcome[0]>0.5000):
   print("the person have higher chances of getting heart disease")
 else:
   print("the person have very less or no chances of getting heart disease")
-
+~~~
 
 
 
